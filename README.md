@@ -1,4 +1,4 @@
-Components made with Typescript and React, testable with Storybook
+Components library made with Typescript and React, testable with Storybook
 
 ## Components
 - HackedText: Text component with changing characters hover animation. Based on @hyperplexed's https://codepen.io/Hyperplexed/pen/rNrJgrd
